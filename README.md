@@ -10,7 +10,7 @@ The website is hosted via S3 with public access and includes a custom 404 page.
 
 ## 🚀 Live Demo
 
-🔗 [View Website](http://your-bucket-url.s3-website-region.amazonaws.com)
+🔗 [View Website](http://my-static-site-giles.s3-website.eu-north-1.amazonaws.com/)
 
 ## 📸 Screenshots
 
